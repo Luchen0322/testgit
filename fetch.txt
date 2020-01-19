@@ -2,6 +2,11 @@ test fetch
 
 test fetch again
 
+
 change by local
 
 change by local second time
+
+change by romte
+
+change by remote twice
