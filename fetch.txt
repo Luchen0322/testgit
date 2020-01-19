@@ -11,4 +11,8 @@ change by romte
 
 change by remote twice
 
+<<<<<<< HEAD
 change local demo branch
+=======
+remote master branch
+>>>>>>> 39c4c3317252e5ff80701c018856cfe4063be20d
